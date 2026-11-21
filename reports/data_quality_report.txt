@@ -1,0 +1,159 @@
+
+=================================================================
+1. DATE PATTERN INVESTIGATION
+=================================================================
+
+Lead time by Ship Mode:
+                count  min  median     mean   max
+Ship Mode                                        
+First Class      1548  905  1272.0  1338.28  1638
+Same Day          547  904  1269.0  1333.44  1636
+Second Class     1979  906  1273.0  1323.85  1640
+Standard Class   6120  908  1274.0  1314.33  1642
+
+Lead time by Order Year:
+                   count   min  median     mean   max
+Order_Date_Parsed                                    
+2024                4181   904  1269.0  1094.02  1277
+2025                6013  1269  1637.0  1478.56  1642
+
+First 20 date records:
+                    Order ID Order Date  Ship Date      Ship Mode  Lead_Time_Days
+US-2021-103800-CHO-MIL-31000 03-01-2024 30-06-2026 Standard Class             909
+US-2021-112326-CHO-TRI-54000 04-01-2024 01-07-2026 Standard Class             909
+US-2021-112326-CHO-NUT-13000 04-01-2024 01-07-2026 Standard Class             909
+US-2021-112326-CHO-SCR-58000 04-01-2024 01-07-2026 Standard Class             909
+US-2021-141817-CHO-TRI-54000 05-01-2024 05-07-2026 Standard Class             912
+US-2021-167199-CHO-SCR-58000 06-01-2024 03-07-2026 Standard Class             909
+US-2021-167199-CHO-TRI-54000 06-01-2024 03-07-2026 Standard Class             909
+US-2021-106054-CHO-MIL-31000 06-01-2024 30-06-2026    First Class             906
+US-2021-167199-CHO-NUT-13000 06-01-2024 03-07-2026 Standard Class             909
+US-2021-167199-CHO-MIL-31000 06-01-2024 03-07-2026 Standard Class             909
+US-2021-167199-CHO-MIL-31000 06-01-2024 03-07-2026 Standard Class             909
+US-2021-130813-CHO-MIL-31000 06-01-2024 01-07-2026   Second Class             907
+US-2021-167199-CHO-SCR-58000 06-01-2024 03-07-2026 Standard Class             909
+US-2021-167199-CHO-FUD-51000 06-01-2024 03-07-2026 Standard Class             909
+US-2021-105417-CHO-MIL-31000 07-01-2024 05-07-2026 Standard Class             910
+US-2021-105417-CHO-TRI-54000 07-01-2024 05-07-2026 Standard Class             910
+US-2021-135405-CHO-TRI-54000 09-01-2024 06-07-2026 Standard Class             909
+US-2021-135405-CHO-TRI-54000 09-01-2024 06-07-2026 Standard Class             909
+US-2021-149020-CHO-MIL-31000 10-01-2024 08-07-2026 Standard Class             910
+US-2021-149020-OTH-GUM-21000 10-01-2024 08-07-2026 Standard Class             910
+
+=================================================================
+2. ORDER ID YEAR INVESTIGATION
+=================================================================
+
+Order ID year distribution:
+Order_ID_Year
+2021    1993
+2022    2102
+2023    2587
+2024    3312
+NaN      200
+
+Order ID year vs actual Order Date year:
+Order_Date_Parsed  2024  2025
+Order_ID_Year                
+2021               1993     0
+2022               2102     0
+2023                  0  2587
+2024                  0  3312
+NaN                  86   114
+
+=================================================================
+3. GEOGRAPHY FIELD INVESTIGATION
+=================================================================
+
+City:
+Blank or whitespace-only values: 0
+Leading/trailing whitespace: 0
+
+State/Province:
+Blank or whitespace-only values: 0
+Leading/trailing whitespace: 0
+
+Postal Code:
+Blank or whitespace-only values: 0
+Leading/trailing whitespace: 0
+
+Country/Region:
+Blank or whitespace-only values: 0
+Leading/trailing whitespace: 0
+
+Region:
+Blank or whitespace-only values: 0
+Leading/trailing whitespace: 0
+
+First 15 geography records (exact values):
+{'City': 'Houston', 'State': 'Texas', 'Postal Code': '77095', 'Country': 'United States'}
+{'City': 'Naperville', 'State': 'Illinois', 'Postal Code': '60540', 'Country': 'United States'}
+{'City': 'Naperville', 'State': 'Illinois', 'Postal Code': '60540', 'Country': 'United States'}
+{'City': 'Naperville', 'State': 'Illinois', 'Postal Code': '60540', 'Country': 'United States'}
+{'City': 'Philadelphia', 'State': 'Pennsylvania', 'Postal Code': '19143', 'Country': 'United States'}
+{'City': 'Henderson', 'State': 'Kentucky', 'Postal Code': '42420', 'Country': 'United States'}
+{'City': 'Henderson', 'State': 'Kentucky', 'Postal Code': '42420', 'Country': 'United States'}
+{'City': 'Athens', 'State': 'Georgia', 'Postal Code': '30605', 'Country': 'United States'}
+{'City': 'Henderson', 'State': 'Kentucky', 'Postal Code': '42420', 'Country': 'United States'}
+{'City': 'Henderson', 'State': 'Kentucky', 'Postal Code': '42420', 'Country': 'United States'}
+{'City': 'Henderson', 'State': 'Kentucky', 'Postal Code': '42420', 'Country': 'United States'}
+{'City': 'Los Angeles', 'State': 'California', 'Postal Code': '90049', 'Country': 'United States'}
+{'City': 'Henderson', 'State': 'Kentucky', 'Postal Code': '42420', 'Country': 'United States'}
+{'City': 'Henderson', 'State': 'Kentucky', 'Postal Code': '42420', 'Country': 'United States'}
+{'City': 'Huntsville', 'State': 'Texas', 'Postal Code': '77340', 'Country': 'United States'}
+
+=================================================================
+4. FINANCIAL VALIDATION
+=================================================================
+
+Sales - Gross Profit - Cost difference statistics:
+count    1.019400e+04
+mean     1.920292e-16
+std      7.117582e-16
+min     -3.552714e-15
+25%      0.000000e+00
+50%      0.000000e+00
+75%      4.440892e-16
+max      3.552714e-15
+
+Rows where Sales != Gross Profit + Cost (tolerance 0.01): 0
+
+Rows with non-positive Sales: 0
+
+Rows with non-positive Units: 0
+
+=================================================================
+5. PRODUCT AND DIVISION VALIDATION
+=================================================================
+
+Product Name and Division combinations:
+Product Name                       Division 
+Everlasting Gobstopper             Sugar           3
+Fizzy Lifting Drinks               Sugar           6
+Fun Dip                            Sugar           3
+Hair Toffee                        Sugar           4
+Kazookles                          Other          96
+Laffy Taffy                        Sugar          10
+Lickable Wallpaper                 Other          94
+Nerds                              Sugar           4
+SweeTARTS                          Sugar          10
+Wonka Bar - Fudge Mallows          Chocolate    1818
+Wonka Bar - Milk Chocolate         Chocolate    2137
+Wonka Bar - Nutty Crunch Surprise  Chocolate    1810
+Wonka Bar - Triple Dazzle Caramel  Chocolate    2015
+Wonka Bar -Scrumdiddlyumptious     Chocolate    2064
+Wonka Gum                          Other         120
+
+=================================================================
+6. ORDER STRUCTURE
+=================================================================
+
+Number of rows per Order ID distribution:
+1    7176
+2    1152
+3     178
+4      35
+5       8
+
+Orders containing more than one distinct product:
+0

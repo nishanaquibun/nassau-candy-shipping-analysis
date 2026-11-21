@@ -1,0 +1,31 @@
+NASSAU CANDY DATA CLEANING REPORT
+============================================================
+Original rows: 10194
+Cleaned rows: 10194
+Unique Base Orders: 5111
+Unique Route Shipments: 6960
+Missing Factory mappings: 0
+Invalid Order Dates: 0
+Invalid Ship Dates: 0
+Negative Lead Times: 0
+Lead Times Above 365 Days: 10194
+
+Data Quality Flag Distribution:
+Data_Quality_Flag
+Lead Time Above 365 Days - Review    10194
+
+Factory Distribution:
+Factory
+Lot's O' Nuts        5692
+Wicked Choccy's      4152
+Secret Factory        217
+The Other Factory     100
+Sugar Shack            33
+
+Country Distribution:
+Country/Region
+United States    9994
+Canada            200
+
+Average Lead Time:
+1320.84

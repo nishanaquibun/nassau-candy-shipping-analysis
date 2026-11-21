@@ -1,0 +1,129 @@
+===========================================================================
+DESTINATION PERFORMANCE ANALYSIS REPORT
+===========================================================================
+
+Total Destinations: 59
+Total Sales: 141,783.63
+Total Gross Profit: 93,442.80
+Total Unique Base Orders (summed): 5,111
+Total Order Lines: 10,194
+
+
+1. TOP 10 DESTINATIONS BY SALES
+---------------------------------------------------------------------------
+1. California, United States
+   Total_Sales: 27,917.40 | Sales: 27,917.40 | Profit: 18,479.42 | Orders: 1,021
+2. New York, United States
+   Total_Sales: 15,541.03 | Sales: 15,541.03 | Profit: 10,222.44 | Orders: 562
+3. Texas, United States
+   Total_Sales: 13,416.09 | Sales: 13,416.09 | Profit: 8,909.53 | Orders: 487
+4. Pennsylvania, United States
+   Total_Sales: 8,027.03 | Sales: 8,027.03 | Profit: 5,225.47 | Orders: 288
+5. Washington, United States
+   Total_Sales: 6,921.15 | Sales: 6,921.15 | Profit: 4,566.64 | Orders: 256
+6. Illinois, United States
+   Total_Sales: 6,898.96 | Sales: 6,898.96 | Profit: 4,557.68 | Orders: 276
+7. Ohio, United States
+   Total_Sales: 6,768.95 | Sales: 6,768.95 | Profit: 4,413.03 | Orders: 236
+8. Florida, United States
+   Total_Sales: 4,804.02 | Sales: 4,804.02 | Profit: 3,207.11 | Orders: 200
+9. Arizona, United States
+   Total_Sales: 3,587.55 | Sales: 3,587.55 | Profit: 2,290.11 | Orders: 108
+10. North Carolina, United States
+   Total_Sales: 3,450.86 | Sales: 3,450.86 | Profit: 2,331.16 | Orders: 136
+
+
+2. TOP 10 DESTINATIONS BY GROSS PROFIT
+---------------------------------------------------------------------------
+1. California, United States
+   Total_Profit: 18,479.42 | Sales: 27,917.40 | Profit: 18,479.42 | Orders: 1,021
+2. New York, United States
+   Total_Profit: 10,222.44 | Sales: 15,541.03 | Profit: 10,222.44 | Orders: 562
+3. Texas, United States
+   Total_Profit: 8,909.53 | Sales: 13,416.09 | Profit: 8,909.53 | Orders: 487
+4. Pennsylvania, United States
+   Total_Profit: 5,225.47 | Sales: 8,027.03 | Profit: 5,225.47 | Orders: 288
+5. Washington, United States
+   Total_Profit: 4,566.64 | Sales: 6,921.15 | Profit: 4,566.64 | Orders: 256
+6. Illinois, United States
+   Total_Profit: 4,557.68 | Sales: 6,898.96 | Profit: 4,557.68 | Orders: 276
+7. Ohio, United States
+   Total_Profit: 4,413.03 | Sales: 6,768.95 | Profit: 4,413.03 | Orders: 236
+8. Florida, United States
+   Total_Profit: 3,207.11 | Sales: 4,804.02 | Profit: 3,207.11 | Orders: 200
+9. North Carolina, United States
+   Total_Profit: 2,331.16 | Sales: 3,450.86 | Profit: 2,331.16 | Orders: 136
+10. Arizona, United States
+   Total_Profit: 2,290.11 | Sales: 3,587.55 | Profit: 2,290.11 | Orders: 108
+
+
+3. TOP 10 DESTINATIONS BY UNIQUE BASE ORDERS
+---------------------------------------------------------------------------
+1. California, United States
+   Unique_Base_Orders: 1,021.00 | Sales: 27,917.40 | Profit: 18,479.42 | Orders: 1,021
+2. New York, United States
+   Unique_Base_Orders: 562.00 | Sales: 15,541.03 | Profit: 10,222.44 | Orders: 562
+3. Texas, United States
+   Unique_Base_Orders: 487.00 | Sales: 13,416.09 | Profit: 8,909.53 | Orders: 487
+4. Pennsylvania, United States
+   Unique_Base_Orders: 288.00 | Sales: 8,027.03 | Profit: 5,225.47 | Orders: 288
+5. Illinois, United States
+   Unique_Base_Orders: 276.00 | Sales: 6,898.96 | Profit: 4,557.68 | Orders: 276
+6. Washington, United States
+   Unique_Base_Orders: 256.00 | Sales: 6,921.15 | Profit: 4,566.64 | Orders: 256
+7. Ohio, United States
+   Unique_Base_Orders: 236.00 | Sales: 6,768.95 | Profit: 4,413.03 | Orders: 236
+8. Florida, United States
+   Unique_Base_Orders: 200.00 | Sales: 4,804.02 | Profit: 3,207.11 | Orders: 200
+9. North Carolina, United States
+   Unique_Base_Orders: 136.00 | Sales: 3,450.86 | Profit: 2,331.16 | Orders: 136
+10. Michigan, United States
+   Unique_Base_Orders: 117.00 | Sales: 3,331.00 | Profit: 2,236.21 | Orders: 117
+
+
+4. LOWEST 10 DESTINATIONS BY SALES
+---------------------------------------------------------------------------
+1. Wyoming, United States
+   Total_Sales: 13.96 | Sales: 13.96 | Profit: 9.96 | Orders: 1
+2. Saskatchewan, Canada
+   Total_Sales: 29.25 | Sales: 29.25 | Profit: 18.99 | Orders: 2
+3. West Virginia, United States
+   Total_Sales: 63.97 | Sales: 63.97 | Profit: 43.89 | Orders: 2
+4. Nova Scotia, Canada
+   Total_Sales: 87.50 | Sales: 87.50 | Profit: 56.90 | Orders: 6
+5. North Dakota, United States
+   Total_Sales: 109.66 | Sales: 109.66 | Profit: 73.96 | Orders: 2
+6. Maine, United States
+   Total_Sales: 126.48 | Sales: 126.48 | Profit: 85.10 | Orders: 3
+7. Prince Edward Island, Canada
+   Total_Sales: 130.10 | Sales: 130.10 | Profit: 88.66 | Orders: 4
+8. Manitoba, Canada
+   Total_Sales: 138.25 | Sales: 138.25 | Profit: 90.27 | Orders: 4
+9. District of Columbia, United States
+   Total_Sales: 142.25 | Sales: 142.25 | Profit: 95.85 | Orders: 4
+10. South Dakota, United States
+   Total_Sales: 151.34 | Sales: 151.34 | Profit: 104.14 | Orders: 5
+
+
+5. COUNTRY-WISE PERFORMANCE
+---------------------------------------------------------------------------
+United States | Destinations: 49 | Sales: 138,830.34 | Profit: 91,508.23 | Sales Contribution: 97.92%
+Canada | Destinations: 10 | Sales: 2,953.29 | Profit: 1,934.57 | Sales Contribution: 2.08%
+
+
+6. KEY BUSINESS FINDINGS
+---------------------------------------------------------------------------
+Highest sales destination: California, United States (27,917.40)
+Highest profit destination: California, United States (18,479.42)
+Highest order-volume destination: California, United States (1,021 unique base orders)
+
+Interpretation notes:
+- Unique Base Orders are summed across destinations. Each base order is expected to belong to one destination.
+- Route Combinations measure geographic factory/city coverage, not shipment volume.
+- Low sales do not automatically indicate poor performance.
+- Gross profit and sales are product financial measures, not shipping revenue or shipping cost.
+- Recorded Order-to-Ship intervals are not actual transit or delivery times and are not used for destination rankings.
+
+===========================================================================
+DESTINATION ANALYSIS COMPLETED
+===========================================================================

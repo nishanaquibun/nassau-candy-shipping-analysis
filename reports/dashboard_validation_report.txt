@@ -1,0 +1,113 @@
+=================================================================
+NASSAU CANDY - DASHBOARD VALIDATION REPORT
+=================================================================
+
+Total checks: 33
+Passed: 33
+Failed: 0
+
+=================================================================
+VALIDATION DETAILS
+=================================================================
+
+[PASS] File exists: nassau_candy.csv
+       D:\Nassau_Candy_Analysis\data\raw\nassau_candy.csv
+
+[PASS] File exists: nassau_candy_cleaned.csv
+       D:\Nassau_Candy_Analysis\data\processed\nassau_candy_cleaned.csv
+
+[PASS] File exists: app.py
+       D:\Nassau_Candy_Analysis\dashboard\app.py
+
+[PASS] File exists: factory_performance_ranking.csv
+       D:\Nassau_Candy_Analysis\data\processed\factory_performance_ranking.csv
+
+[PASS] File exists: route_performance_ranking.csv
+       D:\Nassau_Candy_Analysis\data\processed\route_performance_ranking.csv
+
+[PASS] File exists: destination_performance_ranking.csv
+       D:\Nassau_Candy_Analysis\data\processed\destination_performance_ranking.csv
+
+[PASS] File exists: geographic_lane_analysis.csv
+       D:\Nassau_Candy_Analysis\data\processed\geographic_lane_analysis.csv
+
+[PASS] Raw dataset has 10,194 records
+       Records: 10,194
+
+[PASS] Raw dataset has 18 original columns
+       Columns: 18
+
+[PASS] Cleaned dataset preserves all 10,194 records
+       Records: 10,194
+
+[PASS] Cleaned dataset has Factory column
+
+[PASS] Cleaned dataset has Base_Order_ID column
+
+[PASS] Sales totals reconcile
+       Raw: 141,783.63 | Cleaned: 141,783.63 | Difference: 0.0000
+
+[PASS] Gross Profit totals reconcile
+       Raw: 93,442.80 | Cleaned: 93,442.80 | Difference: 0.0000
+
+[PASS] Cost totals reconcile
+       Raw: 48,340.83 | Cleaned: 48,340.83 | Difference: 0.0000
+
+[PASS] Units totals reconcile
+       Raw: 38,654.00 | Cleaned: 38,654.00 | Difference: 0.0000
+
+[PASS] Five factories represented
+       Unique factories: 5
+
+[PASS] No missing factory assignments
+       Missing: 0
+
+[PASS] Dashboard page: Executive Overview
+
+[PASS] Dashboard page: Factory Performance
+
+[PASS] Dashboard page: Geographic Route Analysis
+
+[PASS] Dashboard page: Destination Analysis
+
+[PASS] Dashboard page: Destination Performance
+
+[PASS] Dashboard page: Shipping Mode Analysis
+
+[PASS] Dashboard page: Data Quality
+
+[PASS] Deprecated use_container_width removed
+
+[PASS] Visualization: 01_factory_sales.png
+       D:\Nassau_Candy_Analysis\reports\figures\01_factory_sales.png
+
+[PASS] Visualization: 02_factory_coverage.png
+       D:\Nassau_Candy_Analysis\reports\figures\02_factory_coverage.png
+
+[PASS] Visualization: 03_top_destinations.png
+       D:\Nassau_Candy_Analysis\reports\figures\03_top_destinations.png
+
+[PASS] Visualization: 04_top_lanes.png
+       D:\Nassau_Candy_Analysis\reports\figures\04_top_lanes.png
+
+[PASS] Visualization: 05_ship_mode_volume.png
+       D:\Nassau_Candy_Analysis\reports\figures\05_ship_mode_volume.png
+
+[PASS] Visualization: 06_division_sales.png
+       D:\Nassau_Candy_Analysis\reports\figures\06_division_sales.png
+
+[PASS] Order and Ship Date fields available
+
+=================================================================
+FINAL VALIDATION STATUS
+=================================================================
+
+ALL VALIDATION CHECKS PASSED.
+
+IMPORTANT ANALYTICAL LIMITATION:
+Order Date-to-Ship Date intervals are anomalously long.
+They must not be interpreted as actual transit or delivery time.
+Product gross profit is not shipping profit.
+Provisional shipment counts are analytical estimates.
+
+=================================================================

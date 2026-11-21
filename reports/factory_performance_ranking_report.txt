@@ -1,0 +1,68 @@
+=================================================================
+FACTORY PERFORMANCE RANKING REPORT
+=================================================================
+
+Total Factories: 5
+Total Sales: 141,783.63
+Total Gross Profit: 93,442.80
+Total Units Sold: 38,654
+
+
+1. SALES RANKING
+-----------------------------------------------------------------
+1. Lot's O' Nuts | Sales: 76,340.15 | Contribution: 53.84%
+2. Wicked Choccy's | Sales: 55,352.75 | Contribution: 39.04%
+3. Secret Factory | Sales: 8,587.50 | Contribution: 6.06%
+4. The Other Factory | Sales: 1,282.25 | Contribution: 0.90%
+5. Sugar Shack | Sales: 220.98 | Contribution: 0.16%
+
+
+2. GROSS PROFIT RANKING
+-----------------------------------------------------------------
+1. Lot's O' Nuts | Profit: 52,771.05 | Contribution: 56.47%
+2. Wicked Choccy's | Profit: 36,053.57 | Contribution: 38.58%
+3. Secret Factory | Profit: 4,344.70 | Contribution: 4.65%
+4. The Other Factory | Profit: 152.25 | Contribution: 0.16%
+5. Sugar Shack | Profit: 121.23 | Contribution: 0.13%
+
+
+3. PROFIT MARGIN RANKING
+-----------------------------------------------------------------
+1. Lot's O' Nuts | Gross Profit Margin: 69.13%
+2. Wicked Choccy's | Gross Profit Margin: 65.13%
+3. Sugar Shack | Gross Profit Margin: 54.86%
+4. Secret Factory | Gross Profit Margin: 50.59%
+5. The Other Factory | Gross Profit Margin: 11.87%
+
+
+4. UNITS SOLD RANKING
+-----------------------------------------------------------------
+1. Lot's O' Nuts | Units: 21,412 | Contribution: 55.39%
+2. Wicked Choccy's | Units: 15,863 | Contribution: 41.04%
+3. Secret Factory | Units: 884 | Contribution: 2.29%
+4. The Other Factory | Units: 388 | Contribution: 1.00%
+5. Sugar Shack | Units: 107 | Contribution: 0.28%
+
+
+5. ROUTE COVERAGE RANKING
+-----------------------------------------------------------------
+1. Lot's O' Nuts | Geographic Route Combinations: 3,652
+2. Wicked Choccy's | Geographic Route Combinations: 2,967
+3. Secret Factory | Geographic Route Combinations: 211
+4. The Other Factory | Geographic Route Combinations: 98
+5. Sugar Shack | Geographic Route Combinations: 32
+
+
+6. KEY BUSINESS FINDINGS
+-----------------------------------------------------------------
+Highest sales: Lot's O' Nuts (76,340.15)
+Highest gross profit: Lot's O' Nuts (52,771.05)
+Highest gross profit margin: Lot's O' Nuts (69.13%)
+
+Note: Gross profit margin is based on product financials, not shipping costs.
+Route combinations represent geographic coverage, not verified physical shipping routes.
+Recorded Order-to-Ship intervals are not actual transit or delivery times.
+
+=================================================================
+REPORT COMPLETED
+=================================================================

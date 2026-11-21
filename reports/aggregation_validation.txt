@@ -1,0 +1,66 @@
+
+1. REPEATED FULL ORDER IDs
+Unique Order IDs: 8549
+IDs appearing more than once: 1373
+Maximum rows for one Order ID: 5
+
+2. FINANCIAL VARIATION WITHIN REPEATED ORDER IDs
+Sales           1177
+Gross Profit    1177
+Cost            1177
+Units           1177
+
+3. EXAMPLE REPEATED ORDER RECORDS
+ Row ID                     Order ID                      Product Name  Sales  Gross Profit  Cost  Units
+     62 CA-2021-115238-CHO-FUD-51000         Wonka Bar - Fudge Mallows  18.00         12.00  6.00      5
+     63 CA-2021-115238-CHO-MIL-31000        Wonka Bar - Milk Chocolate   3.25          2.11  1.14      1
+     65 CA-2021-115238-CHO-FUD-51000         Wonka Bar - Fudge Mallows   3.60          2.40  1.20      1
+     66 CA-2021-115238-CHO-MIL-31000        Wonka Bar - Milk Chocolate  32.50         21.10 11.40     10
+    450 CA-2021-166086-CHO-MIL-31000        Wonka Bar - Milk Chocolate  13.00          8.44  4.56      4
+    453 CA-2021-166086-CHO-MIL-31000        Wonka Bar - Milk Chocolate   9.75          6.33  3.42      3
+    516 CA-2021-152443-CHO-MIL-31000        Wonka Bar - Milk Chocolate  22.75         14.77  7.98      7
+    517 CA-2021-152443-CHO-MIL-31000        Wonka Bar - Milk Chocolate   9.75          6.33  3.42      3
+   1214 CA-2021-160325-CHO-NUT-13000 Wonka Bar - Nutty Crunch Surprise   6.98          4.98  2.00      2
+   1215 CA-2021-160325-CHO-NUT-13000 Wonka Bar - Nutty Crunch Surprise  10.47          7.47  3.00      3
+   1296 CA-2021-131807-CHO-SCR-58000    Wonka Bar -Scrumdiddlyumptious  10.80          7.50  3.30      3
+   1299 CA-2021-131807-CHO-SCR-58000    Wonka Bar -Scrumdiddlyumptious   3.60          2.50  1.10      1
+   1699 CA-2021-153623-CHO-SCR-58000    Wonka Bar -Scrumdiddlyumptious  28.80         20.00  8.80      8
+   1700 CA-2021-153623-CHO-SCR-58000    Wonka Bar -Scrumdiddlyumptious  28.80         20.00  8.80      8
+   1870 CA-2021-151799-CHO-MIL-31000        Wonka Bar - Milk Chocolate   6.50          4.22  2.28      2
+   1872 CA-2021-151799-CHO-MIL-31000        Wonka Bar - Milk Chocolate   3.25          2.11  1.14      1
+   1873 CA-2021-151799-CHO-MIL-31000        Wonka Bar - Milk Chocolate   9.75          6.33  3.42      3
+   1874 CA-2021-151799-CHO-MIL-31000        Wonka Bar - Milk Chocolate   6.50          4.22  2.28      2
+   2018 CA-2021-123625-CHO-MIL-31000        Wonka Bar - Milk Chocolate  26.00         16.88  9.12      8
+   2019 CA-2021-141531-CHO-MIL-31000        Wonka Bar - Milk Chocolate   6.50          4.22  2.28      2
+   2020 CA-2021-123625-CHO-MIL-31000        Wonka Bar - Milk Chocolate   6.50          4.22  2.28      2
+   2021 CA-2021-123625-CHO-MIL-31000        Wonka Bar - Milk Chocolate   6.50          4.22  2.28      2
+   2022 CA-2021-141531-CHO-MIL-31000        Wonka Bar - Milk Chocolate  16.25         10.55  5.70      5
+   2023 CA-2021-123625-CHO-MIL-31000        Wonka Bar - Milk Chocolate  16.25         10.55  5.70      5
+
+4. TOTAL SALES
+Raw total: 141783.6300
+Route summary total: 141783.6300
+Difference: 0.00000000
+
+4. TOTAL GROSS PROFIT
+Raw total: 93442.8000
+Route summary total: 93442.8000
+Difference: -0.00000000
+
+4. TOTAL COST
+Raw total: 48340.8300
+Route summary total: 48340.8300
+Difference: 0.00000000
+
+4. TOTAL UNITS
+Raw total: 38654.0000
+Route summary total: 38654.0000
+Difference: 0.00000000
+
+5. ROUTE SUMMARY
+Cleaned records: 10194
+Route summary rows: 6960
+Unique route keys in cleaned data: 6960
+
+6. ROUTE LEAD-TIME CONSISTENCY
+Routes with multiple lead-time values: 0

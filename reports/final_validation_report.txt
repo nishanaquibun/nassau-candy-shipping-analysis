@@ -1,0 +1,65 @@
+
+=================================================================
+1. BASE ORDER CONSISTENCY
+=================================================================
+
+Order Date
+Base orders with conflicting values: 0
+
+Ship Date
+Base orders with conflicting values: 0
+
+Ship Mode
+Base orders with conflicting values: 0
+
+Customer ID
+Base orders with conflicting values: 0
+
+City
+Base orders with conflicting values: 2
+First 10 affected Base Order IDs:
+Base_Order_ID
+CA-2021-131807    2
+CA-2024-131807    2
+
+State/Province
+Base orders with conflicting values: 0
+
+Country/Region
+Base orders with conflicting values: 0
+
+=================================================================
+2. REPEATED FULL ORDER ID INVESTIGATION
+=================================================================
+
+Full Order IDs appearing more than once: 1373
+Repeated IDs with multiple ship dates: 0
+Repeated IDs with multiple customers: 0
+Repeated IDs with multiple cities: 0
+
+First 15 repeated full Order IDs:
+                              Rows  Products  Factories  Customers  Ship_Dates  Destinations
+Order ID                                                                                    
+CA-2021-115238-CHO-FUD-51000     2         1          1          1           1             1
+CA-2021-115238-CHO-MIL-31000     2         1          1          1           1             1
+CA-2021-123625-CHO-MIL-31000     4         1          1          1           1             1
+CA-2021-131807-CHO-SCR-58000     2         1          1          1           1             1
+CA-2021-141531-CHO-MIL-31000     2         1          1          1           1             1
+CA-2021-151799-CHO-MIL-31000     4         1          1          1           1             1
+CA-2021-152443-CHO-MIL-31000     2         1          1          1           1             1
+CA-2021-153623-CHO-SCR-58000     2         1          1          1           1             1
+CA-2021-160325-CHO-NUT-13000     2         1          1          1           1             1
+CA-2021-166086-CHO-MIL-31000     2         1          1          1           1             1
+CA-2022-115238-CHO-FUD-51000     2         1          1          1           1             1
+CA-2022-115238-CHO-MIL-31000     2         1          1          1           1             1
+CA-2022-132548-CHO-MIL-31000     2         1          1          1           1             1
+CA-2022-155586-CHO-SCR-58000     2         1          1          1           1             1
+CA-2023-112109-CHO-MIL-31000     3         1          1          1           1             1
+
+=================================================================
+3. FACTORY-DESTINATION SHIPMENT KEY
+=================================================================
+
+Unique Base Order + Factory + Destination combinations: 6960
+
+Total dataset rows: 10194

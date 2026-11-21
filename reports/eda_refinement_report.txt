@@ -1,0 +1,131 @@
+
+=================================================================
+1. GEOGRAPHIC LANES BY FACTORY
+=================================================================
+          Factory  Geographic_Lanes  Provisional_Shipments  Total_Sales  Total_Profit
+    Lot's O' Nuts               568                   3652     76340.15      52771.05
+  Wicked Choccy's               524                   2967     55352.75      36053.57
+   Secret Factory               107                    211      8587.50       4344.70
+The Other Factory                58                     98      1282.25        152.25
+      Sugar Shack                21                     32       220.98        121.23
+
+=================================================================
+2. TOP 20 LANES BY PROVISIONAL SHIPMENT VOLUME
+=================================================================
+        Factory Country/Region State/Province          City  Order_Lines  Total_Sales  Total_Profit  Total_Cost  Total_Units  Provisional_Shipments  Avg_Lead_Time  Median_Lead_Time  Min_Lead_Time  Max_Lead_Time  Gross_Profit_Margin_Percent
+  Lot's O' Nuts  United States       New York New York City          533      7184.18       4965.68     2218.50         2014                    332    1332.701807            1274.0            904           1642                    69.119649
+  Lot's O' Nuts  United States     California   Los Angeles          405      5473.75       3778.85     1694.90         1535                    264    1317.496212            1274.0            904           1642                    69.035853
+Wicked Choccy's  United States       New York New York City          342      4344.50       2829.66     1514.84         1246                    241    1320.315353            1274.0            904           1642                    65.132006
+Wicked Choccy's  United States     California   Los Angeles          322      4439.50       2891.26     1548.24         1276                    229    1316.423581            1274.0            904           1642                    65.125802
+  Lot's O' Nuts  United States   Pennsylvania  Philadelphia          301      3948.79       2726.29     1222.50         1107                    190    1317.357895            1273.0            904           1642                    69.041149
+  Lot's O' Nuts  United States     California San Francisco          284      3764.61       2603.11     1161.50         1057                    183    1326.901639            1274.0            904           1642                    69.146870
+Wicked Choccy's  United States   Pennsylvania  Philadelphia          208      2585.00       1684.00      901.00          738                    157    1338.464968            1274.0            906           1642                    65.145068
+Wicked Choccy's  United States     California San Francisco          211      2938.25       1914.51     1023.74          835                    151    1323.847682            1273.0            904           1642                    65.158172
+  Lot's O' Nuts  United States     Washington       Seattle          233      3036.40       2101.60      934.80          852                    147    1332.931973            1274.0            904           1642                    69.213542
+  Lot's O' Nuts  United States          Texas       Houston          215      2881.41       1989.01      892.40          808                    134    1305.828358            1273.0            904           1642                    69.029052
+Wicked Choccy's  United States     Washington       Seattle          180      2455.50       1599.94      855.56          698                    128    1381.679688            1275.0            904           1642                    65.157402
+  Lot's O' Nuts  United States       Illinois       Chicago          165      2088.67       1445.57      643.10          587                    120    1325.375000            1274.0            906           1641                    69.210071
+Wicked Choccy's  United States          Texas       Houston          149      2052.75       1336.57      716.18          593                    112    1292.776786            1273.0            904           1642                    65.111192
+Wicked Choccy's  United States       Illinois       Chicago          137      1760.75       1147.01      613.74          503                    104    1347.365385            1274.0            906           1642                    65.143263
+  Lot's O' Nuts  United States     California     San Diego           93      1285.63        888.63      397.00          361                     62    1261.483871            1273.0            904           1642                    69.120198
+  Lot's O' Nuts  United States          Texas        Dallas           82      1060.51        731.81      328.70          297                     58    1399.413793            1275.0            904           1642                    69.005478
+Wicked Choccy's  United States     California     San Diego           74      1038.00        675.84      362.16          300                     56    1266.910714            1273.0            904           1642                    65.109827
+Wicked Choccy's  United States          Texas        Dallas           72       869.50        566.06      303.44          252                     50    1368.400000            1275.0            904           1642                    65.101783
+  Lot's O' Nuts  United States           Ohio      Columbus           68       974.55        673.15      301.40          273                     42    1212.047619            1271.5            904           1641                    69.072905
+  Lot's O' Nuts  United States       Michigan       Detroit           66      1017.97        700.27      317.70          285                     41    1344.341463            1273.0            909           1642                    68.790829
+
+=================================================================
+3. HIGHEST LEAD-TIME LANES WITH AT LEAST 10 SHIPMENTS
+=================================================================
+          Factory Country/Region State/Province          City  Order_Lines  Total_Sales  Total_Profit  Total_Cost  Total_Units  Provisional_Shipments  Avg_Lead_Time  Median_Lead_Time  Min_Lead_Time  Max_Lead_Time  Gross_Profit_Margin_Percent
+    Lot's O' Nuts  United States      Wisconsin     Milwaukee           24       276.07        192.17       83.90           78                     15    1516.733333            1637.0           1271           1641                    69.609157
+  Wicked Choccy's  United States          Texas        Austin           15       165.25        107.67       57.58           47                     10    1492.500000            1636.0           1273           1641                    65.155825
+   Secret Factory  United States     Washington       Seattle           10       347.50        173.90      173.60           23                     10    1492.200000            1637.0           1270           1641                    50.043165
+    Lot's O' Nuts  United States      Louisiana     Lafayette           13       145.07        101.07       44.00           41                     10    1455.000000            1636.0            908           1639                    69.669815
+    Lot's O' Nuts  United States        Indiana      Columbus           21       258.29        180.59       77.70           73                     13    1442.538462            1638.0            908           1641                    69.917535
+  Wicked Choccy's  United States      Tennessee     Nashville           16       224.50        146.06       78.44           66                     11    1440.000000            1275.0           1273           1641                    65.060134
+  Wicked Choccy's  United States      Wisconsin     Milwaukee           18       359.50        233.86      125.64          106                     16    1433.625000            1456.0            907           1641                    65.051460
+The Other Factory  United States       New York New York City           13       155.75         27.75      128.00           46                     12    1426.083333            1639.0            908           1641                    17.817014
+    Lot's O' Nuts  United States       Illinois        Aurora           19       262.11        181.81       80.30           74                     12    1424.250000            1273.5           1269           1641                    69.364007
+    Lot's O' Nuts  United States       Kentucky    Louisville           16       246.09        169.29       76.80           69                     10    1419.900000            1275.5           1269           1641                    68.791905
+    Lot's O' Nuts  United States     California      Pasadena           13       167.33        116.03       51.30           47                     10    1419.300000            1455.5            906           1642                    69.342019
+  Wicked Choccy's  United States       Kentucky    Louisville           16       214.75        140.13       74.62           59                     10    1419.200000            1456.5            906           1640                    65.252619
+  Wicked Choccy's  United States           Ohio     Cleveland           18       180.75        117.61       63.14           53                     13    1413.153846            1274.0            909           1641                    65.067773
+    Lot's O' Nuts  United States       Maryland     Baltimore           26       418.86        291.86      127.00          118                     11    1406.363636            1275.0            909           1641                    69.679607
+    Lot's O' Nuts  United States          Texas        Austin           22       285.91        197.61       88.30           80                     14    1404.000000            1275.0            909           1641                    69.116155
+    Lot's O' Nuts  United States          Texas        Dallas           82      1060.51        731.81      328.70          297                     58    1399.413793            1275.0            904           1642                    69.005478
+  Wicked Choccy's  United States       Illinois        Aurora           15       188.00        122.44       65.56           54                     12    1395.250000            1455.0            908           1641                    65.127660
+  Wicked Choccy's  United States     California      San Jose           17       220.00        143.20       76.80           64                     12    1395.166667            1275.0            909           1640                    65.090909
+  Wicked Choccy's  United States       Missouri   Springfield           17       206.00        134.08       71.92           60                     12    1395.000000            1274.0            910           1640                    65.087379
+  Wicked Choccy's  United States           Ohio   Springfield           14       173.50        112.98       60.52           50                     12    1394.916667            1273.5            904           1642                    65.118156
+
+=================================================================
+4. LOWEST LEAD-TIME LANES WITH AT LEAST 10 SHIPMENTS
+=================================================================
+        Factory Country/Region State/Province        City  Order_Lines  Total_Sales  Total_Profit  Total_Cost  Total_Units  Provisional_Shipments  Avg_Lead_Time  Median_Lead_Time  Min_Lead_Time  Max_Lead_Time  Gross_Profit_Margin_Percent
+Wicked Choccy's  United States       Virginia Springfield           22       258.25        168.11       90.14           75                     15    1175.200000            1272.0            906           1274                    65.095837
+ Secret Factory  United States     California Los Angeles           15       411.25        206.25      205.00           44                     15    1176.400000            1273.0            907           1640                    50.151976
+  Lot's O' Nuts  United States           Ohio    Columbus           68       974.55        673.15      301.40          273                     42    1212.047619            1271.5            904           1641                    69.072905
+  Lot's O' Nuts  United States       Virginia   Arlington           16       214.79        148.89       65.90           60                     14    1220.571429            1272.5            906           1637                    69.318870
+Wicked Choccy's  United States       New York  Long Beach           15       181.75        118.29       63.46           53                     14    1221.285714            1274.0            904           1639                    65.083906
+  Lot's O' Nuts  United States       Delaware      Newark           26       366.95        254.45      112.50          103                     21    1221.523810            1272.0            908           1641                    69.341872
+Wicked Choccy's  United States          Texas San Antonio           24       366.75        238.89      127.86          105                     18    1232.277778            1273.0            904           1640                    65.137014
+  Lot's O' Nuts  United States        Florida       Tampa           20       228.64        156.74       71.90           64                     10    1236.500000            1273.0            904           1640                    68.553184
+  Lot's O' Nuts  United States          Texas  Fort Worth           17       221.33        152.73       68.60           62                     10    1236.500000            1272.5            907           1640                    69.005557
+Wicked Choccy's  United States           Ohio    Columbus           48       627.00        408.76      218.24          176                     32    1238.406250            1272.5            904           1640                    65.192982
+Wicked Choccy's  United States        Florida       Tampa           16       147.75         96.37       51.38           41                     11    1239.818182            1273.0            904           1640                    65.225042
+  Lot's O' Nuts  United States       Kentucky   Henderson           24       346.56        238.66      107.90           97                     12    1242.416667            1272.5            904           1640                    68.865420
+Wicked Choccy's         Canada        Ontario     Toronto           30       466.25        303.35      162.90          137                     13    1244.538462            1272.0            906           1639                    65.061662
+  Lot's O' Nuts  United States       New York  Long Beach           18       307.84        212.44       95.40           86                     13    1245.538462            1274.0            908           1640                    69.009875
+  Lot's O' Nuts  United States     California    San Jose           24       326.14        228.34       97.80           92                     15    1248.600000            1273.0            906           1639                    70.012878
+  Lot's O' Nuts         Canada        Ontario     Toronto           28       348.32        239.22      109.10           97                     17    1250.823529            1271.0            906           1639                    68.678227
+  Lot's O' Nuts  United States     California   San Diego           93      1285.63        888.63      397.00          361                     62    1261.483871            1273.0            904           1642                    69.120198
+Wicked Choccy's  United States     California   San Diego           74      1038.00        675.84      362.16          300                     56    1266.910714            1273.0            904           1642                    65.109827
+  Lot's O' Nuts  United States       Virginia Springfield           22       358.76        247.36      111.40          101                     17    1272.352941            1273.0            906           1639                    68.948601
+  Lot's O' Nuts  United States           Ohio      Newark           23       341.53        237.73      103.80           96                     12    1272.916667            1272.0            909           1641                    69.607355
+
+=================================================================
+5. ORDER YEAR VS SHIP YEAR
+=================================================================
+ Order_Date_Year  Ship_Date_Year  Records
+            2024            2026      711
+            2024            2027     2089
+            2024            2028     1381
+            2025            2028      986
+            2025            2029     2899
+            2025            2030     2128
+
+=================================================================
+6. LEAD-TIME STATISTICS BY ORDER YEAR
+=================================================================
+ Order_Date_Year  count  min  median        mean  max
+            2024   4181  904  1269.0 1094.018417 1277
+            2025   6013 1269  1637.0 1478.558290 1642
+
+=================================================================
+7. SAMPLE DATE RECORDS
+=================================================================
+                    Order ID Order Date  Ship Date Order_Date_Parsed Ship_Date_Parsed  Order-to-Ship Lead Time
+US-2021-103800-CHO-MIL-31000 03-01-2024 30-06-2026        2024-01-03       2026-06-30                      909
+US-2021-112326-CHO-TRI-54000 04-01-2024 01-07-2026        2024-01-04       2026-07-01                      909
+US-2021-112326-CHO-NUT-13000 04-01-2024 01-07-2026        2024-01-04       2026-07-01                      909
+US-2021-112326-CHO-SCR-58000 04-01-2024 01-07-2026        2024-01-04       2026-07-01                      909
+US-2021-141817-CHO-TRI-54000 05-01-2024 05-07-2026        2024-01-05       2026-07-05                      912
+US-2021-167199-CHO-SCR-58000 06-01-2024 03-07-2026        2024-01-06       2026-07-03                      909
+US-2021-167199-CHO-TRI-54000 06-01-2024 03-07-2026        2024-01-06       2026-07-03                      909
+US-2021-106054-CHO-MIL-31000 06-01-2024 30-06-2026        2024-01-06       2026-06-30                      906
+US-2021-167199-CHO-NUT-13000 06-01-2024 03-07-2026        2024-01-06       2026-07-03                      909
+US-2021-167199-CHO-MIL-31000 06-01-2024 03-07-2026        2024-01-06       2026-07-03                      909
+US-2021-167199-CHO-MIL-31000 06-01-2024 03-07-2026        2024-01-06       2026-07-03                      909
+US-2021-130813-CHO-MIL-31000 06-01-2024 01-07-2026        2024-01-06       2026-07-01                      907
+US-2021-167199-CHO-SCR-58000 06-01-2024 03-07-2026        2024-01-06       2026-07-03                      909
+US-2021-167199-CHO-FUD-51000 06-01-2024 03-07-2026        2024-01-06       2026-07-03                      909
+US-2021-105417-CHO-MIL-31000 07-01-2024 05-07-2026        2024-01-07       2026-07-05                      910
+
+=================================================================
+8. SHIPMENT-LEVEL VALIDATION
+=================================================================
+Raw line-item rows: 10194
+Provisional shipment records: 6960
+Unique geographic lanes: 1278
+Lanes with at least 10 shipments: 110

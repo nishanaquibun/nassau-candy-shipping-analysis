@@ -1,0 +1,35 @@
+# Dataset files - do not publish until permission is confirmed
+data/
+# Original and cleaned datasets
+data/raw/
+data/processed/nassau_candy_cleaned.csv
+
+# Dashboard backup files
+dashboard/app_backup*.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment and system files
+.env
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp

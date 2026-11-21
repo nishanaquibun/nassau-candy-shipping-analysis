@@ -1,0 +1,132 @@
+===========================================================================
+GEOGRAPHIC ROUTE PERFORMANCE RANKING REPORT
+===========================================================================
+
+Total Geographic Lanes: 1,278
+Total Provisional Shipments: 6,960
+Total Sales: 141,783.63
+Total Gross Profit: 93,442.80
+Total Units: 38,654
+
+
+1. TOP 10 LANES BY PROVISIONAL SHIPMENT VOLUME
+---------------------------------------------------------------------------
+1. Lot's O' Nuts -> New York City, New York, United States
+   Shipments: 332 | Sales: 7,184.18 | Profit: 4,965.68 | Margin: 69.12%
+2. Lot's O' Nuts -> Los Angeles, California, United States
+   Shipments: 264 | Sales: 5,473.75 | Profit: 3,778.85 | Margin: 69.04%
+3. Wicked Choccy's -> New York City, New York, United States
+   Shipments: 241 | Sales: 4,344.50 | Profit: 2,829.66 | Margin: 65.13%
+4. Wicked Choccy's -> Los Angeles, California, United States
+   Shipments: 229 | Sales: 4,439.50 | Profit: 2,891.26 | Margin: 65.13%
+5. Lot's O' Nuts -> Philadelphia, Pennsylvania, United States
+   Shipments: 190 | Sales: 3,948.79 | Profit: 2,726.29 | Margin: 69.04%
+6. Lot's O' Nuts -> San Francisco, California, United States
+   Shipments: 183 | Sales: 3,764.61 | Profit: 2,603.11 | Margin: 69.15%
+7. Wicked Choccy's -> Philadelphia, Pennsylvania, United States
+   Shipments: 157 | Sales: 2,585.00 | Profit: 1,684.00 | Margin: 65.15%
+8. Wicked Choccy's -> San Francisco, California, United States
+   Shipments: 151 | Sales: 2,938.25 | Profit: 1,914.51 | Margin: 65.16%
+9. Lot's O' Nuts -> Seattle, Washington, United States
+   Shipments: 147 | Sales: 3,036.40 | Profit: 2,101.60 | Margin: 69.21%
+10. Lot's O' Nuts -> Houston, Texas, United States
+   Shipments: 134 | Sales: 2,881.41 | Profit: 1,989.01 | Margin: 69.03%
+
+
+2. TOP 10 LANES BY SALES
+---------------------------------------------------------------------------
+1. Lot's O' Nuts -> New York City, New York, United States
+   Shipments: 332 | Sales: 7,184.18 | Profit: 4,965.68 | Margin: 69.12%
+2. Lot's O' Nuts -> Los Angeles, California, United States
+   Shipments: 264 | Sales: 5,473.75 | Profit: 3,778.85 | Margin: 69.04%
+3. Wicked Choccy's -> Los Angeles, California, United States
+   Shipments: 229 | Sales: 4,439.50 | Profit: 2,891.26 | Margin: 65.13%
+4. Wicked Choccy's -> New York City, New York, United States
+   Shipments: 241 | Sales: 4,344.50 | Profit: 2,829.66 | Margin: 65.13%
+5. Lot's O' Nuts -> Philadelphia, Pennsylvania, United States
+   Shipments: 190 | Sales: 3,948.79 | Profit: 2,726.29 | Margin: 69.04%
+6. Lot's O' Nuts -> San Francisco, California, United States
+   Shipments: 183 | Sales: 3,764.61 | Profit: 2,603.11 | Margin: 69.15%
+7. Lot's O' Nuts -> Seattle, Washington, United States
+   Shipments: 147 | Sales: 3,036.40 | Profit: 2,101.60 | Margin: 69.21%
+8. Wicked Choccy's -> San Francisco, California, United States
+   Shipments: 151 | Sales: 2,938.25 | Profit: 1,914.51 | Margin: 65.16%
+9. Lot's O' Nuts -> Houston, Texas, United States
+   Shipments: 134 | Sales: 2,881.41 | Profit: 1,989.01 | Margin: 69.03%
+10. Wicked Choccy's -> Philadelphia, Pennsylvania, United States
+   Shipments: 157 | Sales: 2,585.00 | Profit: 1,684.00 | Margin: 65.15%
+
+
+3. TOP 10 LANES BY GROSS PROFIT
+---------------------------------------------------------------------------
+1. Lot's O' Nuts -> New York City, New York, United States
+   Shipments: 332 | Sales: 7,184.18 | Profit: 4,965.68 | Margin: 69.12%
+2. Lot's O' Nuts -> Los Angeles, California, United States
+   Shipments: 264 | Sales: 5,473.75 | Profit: 3,778.85 | Margin: 69.04%
+3. Wicked Choccy's -> Los Angeles, California, United States
+   Shipments: 229 | Sales: 4,439.50 | Profit: 2,891.26 | Margin: 65.13%
+4. Wicked Choccy's -> New York City, New York, United States
+   Shipments: 241 | Sales: 4,344.50 | Profit: 2,829.66 | Margin: 65.13%
+5. Lot's O' Nuts -> Philadelphia, Pennsylvania, United States
+   Shipments: 190 | Sales: 3,948.79 | Profit: 2,726.29 | Margin: 69.04%
+6. Lot's O' Nuts -> San Francisco, California, United States
+   Shipments: 183 | Sales: 3,764.61 | Profit: 2,603.11 | Margin: 69.15%
+7. Lot's O' Nuts -> Seattle, Washington, United States
+   Shipments: 147 | Sales: 3,036.40 | Profit: 2,101.60 | Margin: 69.21%
+8. Lot's O' Nuts -> Houston, Texas, United States
+   Shipments: 134 | Sales: 2,881.41 | Profit: 1,989.01 | Margin: 69.03%
+9. Wicked Choccy's -> San Francisco, California, United States
+   Shipments: 151 | Sales: 2,938.25 | Profit: 1,914.51 | Margin: 65.16%
+10. Wicked Choccy's -> Philadelphia, Pennsylvania, United States
+   Shipments: 157 | Sales: 2,585.00 | Profit: 1,684.00 | Margin: 65.15%
+
+
+4. LOWEST 10 LANES BY PROVISIONAL SHIPMENT VOLUME
+---------------------------------------------------------------------------
+1. Secret Factory -> Jacksonville, North Carolina, United States
+   Shipments: 1 | Sales: 1.25 | Profit: 0.65 | Margin: 52.00%
+2. Secret Factory -> Dallas, Texas, United States
+   Shipments: 1 | Sales: 1.25 | Profit: 0.65 | Margin: 52.00%
+3. Sugar Shack -> Chattanooga, Tennessee, United States
+   Shipments: 1 | Sales: 1.50 | Profit: 0.60 | Margin: 40.00%
+4. Sugar Shack -> Midland, Michigan, United States
+   Shipments: 1 | Sales: 1.99 | Profit: 1.24 | Margin: 62.31%
+5. Sugar Shack -> Seattle, Washington, United States
+   Shipments: 1 | Sales: 1.99 | Profit: 1.24 | Margin: 62.31%
+6. Secret Factory -> San Diego, California, United States
+   Shipments: 1 | Sales: 2.50 | Profit: 1.30 | Margin: 52.00%
+7. Secret Factory -> Loveland, Colorado, United States
+   Shipments: 1 | Sales: 2.50 | Profit: 1.30 | Margin: 52.00%
+8. Secret Factory -> Milford, Connecticut, United States
+   Shipments: 1 | Sales: 2.50 | Profit: 1.30 | Margin: 52.00%
+9. Secret Factory -> Jacksonville, Florida, United States
+   Shipments: 1 | Sales: 2.50 | Profit: 1.30 | Margin: 52.00%
+10. Secret Factory -> Melbourne, Florida, United States
+   Shipments: 1 | Sales: 2.50 | Profit: 1.30 | Margin: 52.00%
+
+
+5. FACTORY GEOGRAPHIC COVERAGE
+---------------------------------------------------------------------------
+Lot's O' Nuts | Lanes: 568 | Shipments: 3,652 | Sales: 76,340.15
+Wicked Choccy's | Lanes: 524 | Shipments: 2,967 | Sales: 55,352.75
+Secret Factory | Lanes: 107 | Shipments: 211 | Sales: 8,587.50
+The Other Factory | Lanes: 58 | Shipments: 98 | Sales: 1,282.25
+Sugar Shack | Lanes: 21 | Shipments: 32 | Sales: 220.98
+
+
+6. KEY BUSINESS FINDINGS
+---------------------------------------------------------------------------
+Highest sales lane: Lot's O' Nuts -> New York City, New York, United States (7,184.18)
+Highest profit lane: Lot's O' Nuts -> New York City, New York, United States (4,965.68)
+Busiest lane: Lot's O' Nuts -> New York City, New York, United States (332 provisional shipments)
+
+Interpretation notes:
+- Provisional shipment counts are based on the existing Base_Order_ID and factory/destination grouping.
+- Geographic lanes represent factory-to-city combinations, not verified physical transport routes.
+- Low volume does not automatically mean poor performance; customer demand and product mix may affect volume.
+- Sales and gross profit are product financial measures, not shipping revenue or shipping cost.
+- Order-to-Ship intervals are not actual transit or delivery times.
+
+===========================================================================
+ROUTE PERFORMANCE ANALYSIS COMPLETED
+===========================================================================

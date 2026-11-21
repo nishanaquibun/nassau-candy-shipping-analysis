@@ -1,0 +1,109 @@
+
+=================================================================
+1. ORDER IDENTIFIER INVESTIGATION
+=================================================================
+Unique full Order IDs: 8549
+Unique Base Order IDs: 5111
+Rows without extracted Base Order ID: 0
+
+Rows per Base Order ID:
+Rows
+1     2593
+2     1242
+3      612
+4      344
+5      164
+6       72
+7       51
+8       16
+9       10
+10       3
+11       2
+12       1
+14       1
+
+Base orders containing multiple products: 2244
+
+Base orders containing multiple factories: 1718
+
+First 20 Base Order IDs:
+                Rows  Distinct_Order_IDs  Distinct_Products  Distinct_Factories
+Base_Order_ID                                                                  
+CA-2021-100867     1                   1                  1                   1
+CA-2021-107153     1                   1                  1                   1
+CA-2021-115238     5                   3                  3                   2
+CA-2021-115777     1                   1                  1                   1
+CA-2021-117964     2                   2                  2                   2
+CA-2021-119508     2                   2                  2                   1
+CA-2021-123625     4                   1                  1                   1
+CA-2021-123664     1                   1                  1                   1
+CA-2021-125388     2                   2                  2                   2
+CA-2021-126438     1                   1                  1                   1
+CA-2021-126634     1                   1                  1                   1
+CA-2021-129322     3                   3                  3                   2
+CA-2021-131807     6                   5                  5                   3
+CA-2021-132339     1                   1                  1                   1
+CA-2021-139675     2                   2                  2                   2
+CA-2021-141531     2                   1                  1                   1
+CA-2021-143500     1                   1                  1                   1
+CA-2021-146626     1                   1                  1                   1
+CA-2021-151799     5                   2                  2                   2
+CA-2021-152443     3                   2                  2                   2
+
+=================================================================
+2. PRODUCT-TO-FACTORY MAPPING VALIDATION
+=================================================================
+
+Rows with missing Factory mapping: 0
+
+Product and assigned Factory:
+                     Product Name           Factory
+        Wonka Bar - Fudge Mallows     Lot's O' Nuts
+Wonka Bar - Nutty Crunch Surprise     Lot's O' Nuts
+   Wonka Bar -Scrumdiddlyumptious     Lot's O' Nuts
+           Everlasting Gobstopper    Secret Factory
+               Lickable Wallpaper    Secret Factory
+                        Wonka Gum    Secret Factory
+             Fizzy Lifting Drinks       Sugar Shack
+                          Fun Dip       Sugar Shack
+                      Laffy Taffy       Sugar Shack
+                            Nerds       Sugar Shack
+                        SweeTARTS       Sugar Shack
+                      Hair Toffee The Other Factory
+                        Kazookles The Other Factory
+       Wonka Bar - Milk Chocolate   Wicked Choccy's
+Wonka Bar - Triple Dazzle Caramel   Wicked Choccy's
+
+=================================================================
+3. BASE ORDER EXAMPLES
+=================================================================
+
+Base Order: CA-2021-115238
+                    Order ID                      Product Name         Factory    City State/Province  Ship Date
+CA-2021-115238-CHO-FUD-51000         Wonka Bar - Fudge Mallows   Lot's O' Nuts Toronto        Ontario 17-07-2026
+CA-2021-115238-CHO-MIL-31000        Wonka Bar - Milk Chocolate Wicked Choccy's Toronto        Ontario 17-07-2026
+CA-2021-115238-CHO-TRI-54000 Wonka Bar - Triple Dazzle Caramel Wicked Choccy's Toronto        Ontario 17-07-2026
+CA-2021-115238-CHO-FUD-51000         Wonka Bar - Fudge Mallows   Lot's O' Nuts Toronto        Ontario 17-07-2026
+CA-2021-115238-CHO-MIL-31000        Wonka Bar - Milk Chocolate Wicked Choccy's Toronto        Ontario 17-07-2026
+
+Base Order: CA-2021-117964
+                    Order ID                      Product Name         Factory    City State/Province  Ship Date
+CA-2021-117964-CHO-TRI-54000 Wonka Bar - Triple Dazzle Caramel Wicked Choccy's Moncton  New Brunswick 29-05-2027
+CA-2021-117964-CHO-NUT-13000 Wonka Bar - Nutty Crunch Surprise   Lot's O' Nuts Moncton  New Brunswick 29-05-2027
+
+Base Order: CA-2021-119508
+                    Order ID                      Product Name       Factory      City   State/Province  Ship Date
+CA-2021-119508-CHO-NUT-13000 Wonka Bar - Nutty Crunch Surprise Lot's O' Nuts Vancouver British Columbia 01-06-2027
+CA-2021-119508-CHO-FUD-51000         Wonka Bar - Fudge Mallows Lot's O' Nuts Vancouver British Columbia 01-06-2027
+
+Base Order: CA-2021-123625
+                    Order ID               Product Name         Factory        City State/Province  Ship Date
+CA-2021-123625-CHO-MIL-31000 Wonka Bar - Milk Chocolate Wicked Choccy's Quebec City         Quebec 25-06-2027
+CA-2021-123625-CHO-MIL-31000 Wonka Bar - Milk Chocolate Wicked Choccy's Quebec City         Quebec 25-06-2027
+CA-2021-123625-CHO-MIL-31000 Wonka Bar - Milk Chocolate Wicked Choccy's Quebec City         Quebec 25-06-2027
+CA-2021-123625-CHO-MIL-31000 Wonka Bar - Milk Chocolate Wicked Choccy's Quebec City         Quebec 25-06-2027
+
+Base Order: CA-2021-125388
+                    Order ID                   Product Name        Factory     City State/Province  Ship Date
+CA-2021-125388-OTH-LIC-15000             Lickable Wallpaper Secret Factory Montreal         Quebec 15-04-2027
+CA-2021-125388-CHO-SCR-58000 Wonka Bar -Scrumdiddlyumptious  Lot's O' Nuts Montreal         Quebec 15-04-2027
